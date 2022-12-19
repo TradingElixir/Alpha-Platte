@@ -14,7 +14,7 @@ const Home = () => {
             Explore new Web3.0 <br />
             <Text as={'span'} color={'blue.400'}>
               with Platter Inc.
-            </Text>
+            </Text> 
           </Heading>
           <Text color={'gray.500'}>
             Platter is your gateway to Web3. Track your wallets. Follow other wallets. Discover NFTs, DAOs, DeFi...and much more on a single platform
